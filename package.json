@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "bull": "^4.8.5"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "npm-practice",
+  "version": "1.0.0",
+  "description": "a simple node app for practicing npm commands",
+  "main": "server.js",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "author": "Hauwa",
+  "license": "ISC"
+}
